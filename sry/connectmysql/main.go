@@ -26,6 +26,8 @@ func initClient(ctx context.Context) (err error) {
 		PoolSize: 100, //连接池大小
 	})
 
+	//这一行是为了测试git做的修改
+
 	ctx, cancel := context.WithTimeout(context.Background(), time.Second*5)
 	defer cancel()
 
