@@ -1,0 +1,464 @@
+2021-05-26T17:24:53.515+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:24:53.519+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:24:53.519+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:24:54.326+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:24:54.327+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:24:54.327+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:24:54.327+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:24:54.948+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:24:54.948+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:24:54.949+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:24:54.949+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:24:55.562+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:24:55.562+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:24:55.562+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:24:55.562+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:24:56.191+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:24:56.191+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:24:56.191+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:24:56.191+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:24:56.742+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:24:56.743+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:24:56.743+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:24:56.743+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:24:57.286+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:24:57.286+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:24:57.286+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:24:57.286+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:24:57.832+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:24:57.833+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:24:57.833+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:24:57.833+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:24:58.388+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:24:58.388+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:24:58.388+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:24:58.388+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:24:58.934+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:24:58.934+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:24:58.934+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:24:58.934+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:24:59.474+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:24:59.475+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:24:59.475+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:24:59.475+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:00.018+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:00.019+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:00.019+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:00.019+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:00.637+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:00.637+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:00.637+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:00.637+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:01.186+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:01.187+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:01.187+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:01.187+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:01.716+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:01.716+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:01.716+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:01.716+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:02.416+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:02.416+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:02.416+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:02.417+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:03.041+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:03.042+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:03.042+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:03.042+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:03.678+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:03.678+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:03.678+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:03.678+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:04.222+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:04.222+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:04.222+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:04.222+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:04.839+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:04.839+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:04.839+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:04.839+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:05.396+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:05.397+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:05.397+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:05.397+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:06.122+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:06.123+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:06.123+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:06.123+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:06.744+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:06.745+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:06.745+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:06.745+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:07.273+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:07.273+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:07.273+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:07.274+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:08.367+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:08.367+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:08.368+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:08.368+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:09.071+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:09.072+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:09.072+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:09.072+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:09.619+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:09.620+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:09.620+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:09.620+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:10.163+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:10.163+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:10.163+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:10.163+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:10.706+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:10.706+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:10.706+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:10.707+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:11.383+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:11.384+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:11.384+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:11.384+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:11.997+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:11.997+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:11.997+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:11.997+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:12.773+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:12.773+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:12.773+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:12.773+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:13.320+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:13.320+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:13.320+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:13.320+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:13.897+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:13.897+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:13.897+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:13.897+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:14.502+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:14.502+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:14.502+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:14.502+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:15.116+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:15.116+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:15.116+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:15.116+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:15.746+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:15.746+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:15.747+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:15.747+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:16.369+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:16.369+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:16.369+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:16.369+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:16.933+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:16.933+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:16.933+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:16.933+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:17.478+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:17.478+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:17.478+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:17.478+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:18.031+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:18.031+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:18.031+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:18.031+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:18.581+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:18.581+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:18.581+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:18.581+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:19.132+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:19.132+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:19.132+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:19.132+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:19.738+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:19.740+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:19.740+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:19.740+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:20.348+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:20.349+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:20.349+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:20.349+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:20.894+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:20.894+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:20.894+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:20.894+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:21.510+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:21.510+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:21.510+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:21.510+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:22.154+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:22.154+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:22.154+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:22.154+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:22.692+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:22.692+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:22.693+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:22.693+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:23.245+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:23.245+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:23.245+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:23.245+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:23.803+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:23.803+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:23.803+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:23.803+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:24.348+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:24.348+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:24.348+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:24.348+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:24.907+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:24.907+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:24.907+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:24.907+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:25.538+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:25.538+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:25.538+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:25.538+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:26.146+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:26.148+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:26.148+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:26.148+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:26.703+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:26.703+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:26.703+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:26.703+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:27.307+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:27.307+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:27.307+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:27.307+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:27.919+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:27.919+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:27.919+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:27.919+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:28.702+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:28.703+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:28.703+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:28.703+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:29.288+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:29.288+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:29.288+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:29.288+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:29.904+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:29.904+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:29.904+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:29.904+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:30.436+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:30.436+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:30.436+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:30.436+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:31.065+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:31.065+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:31.065+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:31.065+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:31.664+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:31.664+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:31.664+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:31.664+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:32.263+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:32.264+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:32.264+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:32.264+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:32.814+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:32.814+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:32.814+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:32.814+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:33.423+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:33.423+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:33.423+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:33.423+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:33.971+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:33.971+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:33.971+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:33.971+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:34.517+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:34.517+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:34.517+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:34.517+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:35.075+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:35.075+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:35.075+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:35.075+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:35.713+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:35.713+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:35.713+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:35.713+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:36.325+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:36.326+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:36.326+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:36.326+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:36.880+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:36.880+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:36.880+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:36.880+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:37.503+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:37.503+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:37.503+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:37.503+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:38.224+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:38.224+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:38.224+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:38.224+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:38.793+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:38.793+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:38.793+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:38.793+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:39.405+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:39.405+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:39.405+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:39.406+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:40.009+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:40.009+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:40.009+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:40.009+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:40.555+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:40.555+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:40.555+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:40.555+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:41.167+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:41.167+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:41.168+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:41.168+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:41.727+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:41.728+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:41.728+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:41.728+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:42.270+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:42.270+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:42.270+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:42.270+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:42.901+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:42.901+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:42.901+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:42.901+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:43.501+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:43.501+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:43.501+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:43.501+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:44.057+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:44.057+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:44.058+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:44.058+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:44.602+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:44.602+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:44.602+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:44.602+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:45.166+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:45.167+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:45.167+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:45.167+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:45.722+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:45.722+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:45.722+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:45.722+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:46.275+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:46.275+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:46.275+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:46.275+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:46.876+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:46.876+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:46.876+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:46.876+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:47.431+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:47.431+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:47.431+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:47.431+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:48.055+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:48.056+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:48.056+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:48.056+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:48.682+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:48.682+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:48.682+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:48.682+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:49.313+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:49.314+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:49.314+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:49.314+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:49.933+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:49.933+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:49.933+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:49.933+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:50.551+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:50.551+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:50.552+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:50.552+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:51.170+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:51.171+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:51.171+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:51.171+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:51.735+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:51.735+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:51.736+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:51.736+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:52.349+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-05-26T17:25:52.349+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for www.google.com
+2021-05-26T17:25:52.349+0800	ERROR	logger/logger.go:57	Error fetching URL www.google.com
+2021-05-26T17:25:52.349+0800	DEBUG	logger/logger.go:54	Trying to hit Get request for http://www.google.com
+2021-05-26T17:25:52.911+0800	INFO	logger/logger.go:59	Success! statusCode = 200
+2021-06-03T15:05:02.017+0800	DEBUG	logger/logger.go:52	Trying to hit Get request for www.google.com
+2021-06-03T15:05:02.024+0800	ERROR	logger/logger.go:55	Error fetching URL www.google.com
+2021-06-03T15:05:02.024+0800	DEBUG	logger/logger.go:52	Trying to hit Get request for http://www.google.com
+2021-06-03T15:05:03.030+0800	INFO	logger/logger.go:57	Success! statusCode = 200
+2021-06-03T16:07:11.281+0800	DEBUG	logger/logger.go:52	Trying to hit Get request for www.google.com
+2021-06-03T16:07:11.286+0800	ERROR	logger/logger.go:55	Error fetching URL www.google.com
+2021-06-03T16:07:11.286+0800	DEBUG	logger/logger.go:52	Trying to hit Get request for http://www.google.com
+2021-06-03T16:07:12.256+0800	INFO	logger/logger.go:57	Success! statusCode = 200
+2021-06-03T16:11:51.961+0800	DEBUG	logger/logger.go:52	Trying to hit Get request for www.google.com
+2021-06-03T16:11:51.967+0800	ERROR	logger/logger.go:55	Error fetching URL www.google.com
+2021-06-03T16:11:51.967+0800	DEBUG	logger/logger.go:52	Trying to hit Get request for http://www.google.com
+2021-06-03T16:11:52.969+0800	INFO	logger/logger.go:57	Success! statusCode = 200
+2021-06-03T16:12:16.142+0800	DEBUG	logger/logger.go:52	Trying to hit Get request for www.google.com
+2021-06-03T16:12:16.149+0800	ERROR	logger/logger.go:55	Error fetching URL www.google.com
+2021-06-03T16:12:16.149+0800	DEBUG	logger/logger.go:52	Trying to hit Get request for http://www.google.com
+2021-06-03T16:12:17.051+0800	INFO	logger/logger.go:57	Success! statusCode = 200
+2021-06-03T16:12:53.842+0800	DEBUG	logger/logger.go:52	Trying to hit Get request for www.google.com
+2021-06-03T16:12:53.851+0800	ERROR	logger/logger.go:55	Error fetching URL www.google.com
+2021-06-03T16:12:53.851+0800	DEBUG	logger/logger.go:52	Trying to hit Get request for http://www.google.com
+2021-06-03T16:12:54.726+0800	INFO	logger/logger.go:57	Success! statusCode = 200
+2021-06-03T16:14:36.473+0800	DEBUG	logger/logger.go:52	Trying to hit Get request for www.google.com
+2021-06-03T16:14:36.480+0800	ERROR	logger/logger.go:55	Error fetching URL www.google.com
+2021-06-03T16:14:36.480+0800	DEBUG	logger/logger.go:52	Trying to hit Get request for http://www.google.com
+2021-06-03T16:14:37.418+0800	INFO	logger/logger.go:57	Success! statusCode = 200
+2021-06-03T16:18:16.028+0800	DEBUG	logger/logger.go:52	Trying to hit Get request for www.google.com
+2021-06-03T16:18:16.033+0800	ERROR	logger/logger.go:55	Error fetching URL www.google.com
+2021-06-03T16:18:16.033+0800	DEBUG	logger/logger.go:52	Trying to hit Get request for http://www.google.com
+2021-06-03T16:18:17.012+0800	INFO	logger/logger.go:57	Success! statusCode = 200
+2021-06-03T16:18:52.398+0800	DEBUG	logger/logger.go:52	Trying to hit Get request for www.google.com
+2021-06-03T16:18:52.405+0800	ERROR	logger/logger.go:55	Error fetching URL www.google.com
+2021-06-03T16:18:52.405+0800	DEBUG	logger/logger.go:52	Trying to hit Get request for http://www.google.com
+2021-06-03T16:18:53.244+0800	INFO	logger/logger.go:57	Success! statusCode = 200
+2021-06-03T16:24:11.613+0800	DEBUG	logger/logger.go:52	Trying to hit Get request for www.google.com
+2021-06-03T16:24:11.635+0800	ERROR	logger/logger.go:55	Error fetching URL www.google.com
+2021-06-03T16:24:11.635+0800	DEBUG	logger/logger.go:52	Trying to hit Get request for http://www.google.com
+2021-06-03T16:24:12.721+0800	INFO	logger/logger.go:57	Success! statusCode = 200
+2021-06-03T16:25:04.883+0800	DEBUG	logger/logger.go:52	Trying to hit Get request for www.google.com
+2021-06-03T16:25:04.891+0800	ERROR	logger/logger.go:55	Error fetching URL www.google.com
+2021-06-03T16:25:04.891+0800	DEBUG	logger/logger.go:52	Trying to hit Get request for http://www.google.com
+2021-06-03T16:25:05.962+0800	INFO	logger/logger.go:57	Success! statusCode = 200
+2021-06-03T16:26:12.059+0800	DEBUG	logger/logger.go:52	Trying to hit Get request for www.google.com
+2021-06-03T16:26:12.068+0800	ERROR	logger/logger.go:55	Error fetching URL www.google.com
+2021-06-03T16:26:12.068+0800	DEBUG	logger/logger.go:52	Trying to hit Get request for http://www.google.com
+2021-06-03T16:26:13.273+0800	INFO	logger/logger.go:57	Success! statusCode = 200
+2021-06-03T16:26:50.154+0800	DEBUG	logger/logger.go:52	Trying to hit Get request for www.google.com
+2021-06-03T16:26:50.161+0800	ERROR	logger/logger.go:55	Error fetching URL www.google.com
+2021-06-03T16:26:50.161+0800	DEBUG	logger/logger.go:52	Trying to hit Get request for http://www.google.com
+2021-06-03T16:26:51.090+0800	INFO	logger/logger.go:57	Success! statusCode = 200
+2021-06-03T16:33:56.891+0800	DEBUG	logger/logger.go:52	Trying to hit Get request for www.google.com
+2021-06-03T16:33:56.898+0800	ERROR	logger/logger.go:55	Error fetching URL www.google.com
+2021-06-03T16:33:56.898+0800	DEBUG	logger/logger.go:52	Trying to hit Get request for http://www.google.com
+2021-06-03T16:33:57.879+0800	INFO	logger/logger.go:57	Success! statusCode = 200
+2021-06-03T16:34:19.356+0800	DEBUG	logger/logger.go:52	Trying to hit Get request for www.google.com
+2021-06-03T16:34:19.363+0800	ERROR	logger/logger.go:55	Error fetching URL www.google.com
+2021-06-03T16:34:19.363+0800	DEBUG	logger/logger.go:52	Trying to hit Get request for http://www.google.com
+2021-06-03T16:34:20.240+0800	INFO	logger/logger.go:57	Success! statusCode = 200
+2021-06-03T16:34:39.463+0800	DEBUG	logger/logger.go:52	Trying to hit Get request for www.google.com
+2021-06-03T16:34:39.471+0800	ERROR	logger/logger.go:55	Error fetching URL www.google.com
+2021-06-03T16:34:39.471+0800	DEBUG	logger/logger.go:52	Trying to hit Get request for http://www.google.com
+2021-06-03T16:34:40.321+0800	INFO	logger/logger.go:57	Success! statusCode = 200
+2021-06-03T16:37:06.196+0800	DEBUG	logger/logger.go:52	Trying to hit Get request for www.google.com
+2021-06-03T16:37:06.231+0800	ERROR	logger/logger.go:55	Error fetching URL www.google.com
+2021-06-03T16:37:06.231+0800	DEBUG	logger/logger.go:52	Trying to hit Get request for http://www.google.com
+2021-06-03T16:37:07.161+0800	INFO	logger/logger.go:57	Success! statusCode = 200
+2021-06-03T16:39:12.976+0800	DEBUG	logger/logger.go:52	Trying to hit Get request for www.google.com
+2021-06-03T16:39:12.986+0800	ERROR	logger/logger.go:55	Error fetching URL www.google.com
+2021-06-03T16:39:12.986+0800	DEBUG	logger/logger.go:52	Trying to hit Get request for http://www.google.com
+2021-06-03T16:39:13.895+0800	INFO	logger/logger.go:57	Success! statusCode = 200

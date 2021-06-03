@@ -1,11 +1,11 @@
-app:
+
   name: "web_app"
   mode: "dev"
   port: 8081
 
 log:
   level: "debug"
-  filename: "web_app.log"
+  filename: "zaplog.log"
   max_size: 200
   max_age: 30
   max_backups: 7
@@ -17,3 +17,4 @@ mysql:
 
 redis:
   host: "127.0.0.1"
+  port: "6379"

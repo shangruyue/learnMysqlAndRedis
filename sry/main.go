@@ -1,13 +1,15 @@
 package main
 
 import (
-	"context"
+	//"context"
 
-	"sry/setting"
-	"sry/router"
+	"fmt"
 	"sry/logger"
-	"sry/mysql"
-	"sry/redis"
+	"sry/router"
+	"sry/setting"
+
+	//"sry/mysql"
+	//"sry/redis"
 
 	_ "github.com/go-sql-driver/mysql"
 	_ "github.com/jackc/pgx/stdlib"
@@ -17,20 +19,22 @@ func main() {
 	//加载配置 setings 参见viper小节
 	setting.SettingInit()
 	//初始化日志
-	logger.InitLogger() 
+	logger.SetupSugarLogger() 
 	//初始化mysql连接
-	db := mysql.InitMysql()
-	defer db.Close()
+	// db := mysql.InitMysql()
+	// defer db.Close()
 	//初始化redis连接
-	ctx := context.Background()
-	rdb, err := redis.InitRedisClient(ctx)
-	defer rdb.Close()
-	if err != nil {
-		panic(err)
-	}
+	// ctx := context.Background()
+	// err := redis.InitRedisClient(ctx)
+	// if err != nil {
+	// 	panic(err)
+	// }
+	// redis.MyredisClose()
 	//注册路由
 	r := router.Setup()
-	r.Run()
+	if err := r.Run(fmt.Sprintf(":%d", setting.Conf.Port)); err != nil {
+		fmt.Printf("run server failed: %v", err)
+	}
 	//启动服务 优雅关机
 
 	//初始化之后记得 defer or close
