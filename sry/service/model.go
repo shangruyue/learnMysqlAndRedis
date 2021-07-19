@@ -7,4 +7,4 @@ type UserSignUpInfo struct {
 	RePassword string `json:"repassword"  binding:"required"`
 }
 
-//this is a test
+//this is a test for tset2
