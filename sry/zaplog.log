@@ -462,3 +462,53 @@
 2021-06-03T16:39:12.986+0800	ERROR	logger/logger.go:55	Error fetching URL www.google.com
 2021-06-03T16:39:12.986+0800	DEBUG	logger/logger.go:52	Trying to hit Get request for http://www.google.com
 2021-06-03T16:39:13.895+0800	INFO	logger/logger.go:57	Success! statusCode = 200
+2021-06-03T17:04:42.670+0800	DEBUG	logger/logger.go:52	Trying to hit Get request for www.google.com
+2021-06-03T17:04:42.676+0800	ERROR	logger/logger.go:55	Error fetching URL www.google.com
+2021-06-03T17:04:42.676+0800	DEBUG	logger/logger.go:52	Trying to hit Get request for http://www.google.com
+2021-06-03T17:04:43.663+0800	INFO	logger/logger.go:57	Success! statusCode = 200
+2021-06-03T17:07:58.710+0800	DEBUG	logger/logger.go:52	Trying to hit Get request for www.google.com
+2021-06-03T17:07:58.722+0800	ERROR	logger/logger.go:55	Error fetching URL www.google.com
+2021-06-03T17:07:58.722+0800	DEBUG	logger/logger.go:52	Trying to hit Get request for http://www.google.com
+2021-06-03T17:08:00.134+0800	INFO	logger/logger.go:57	Success! statusCode = 200
+2021-06-03T17:10:48.350+0800	DEBUG	logger/logger.go:52	Trying to hit Get request for www.google.com
+2021-06-03T17:10:48.356+0800	ERROR	logger/logger.go:55	Error fetching URL www.google.com
+2021-06-03T17:10:48.357+0800	DEBUG	logger/logger.go:52	Trying to hit Get request for http://www.google.com
+2021-06-03T17:10:49.302+0800	INFO	logger/logger.go:57	Success! statusCode = 200
+2021-06-03T17:15:57.851+0800	DEBUG	logger/logger.go:52	Trying to hit Get request for www.google.com
+2021-06-03T17:15:57.858+0800	ERROR	logger/logger.go:55	Error fetching URL www.google.com
+2021-06-03T17:15:57.858+0800	DEBUG	logger/logger.go:52	Trying to hit Get request for http://www.google.com
+2021-06-03T17:15:58.847+0800	INFO	logger/logger.go:57	Success! statusCode = 200
+2021-06-03T17:21:25.091+0800	DEBUG	logger/logger.go:53	Trying to hit Get request for www.google.com
+2021-06-03T17:21:25.103+0800	ERROR	logger/logger.go:56	Error fetching URL www.google.com
+2021-06-03T17:21:25.103+0800	DEBUG	logger/logger.go:53	Trying to hit Get request for http://www.google.com
+2021-06-03T17:21:26.103+0800	INFO	logger/logger.go:58	Success! statusCode = 200
+2021-06-03T17:21:34.245+0800	INFO	router/routes.go:54	Sign up success
+2021-06-03T17:21:50.022+0800	ERROR	router/routes.go:48	SignUp with invalid param: 	{"error": "Key: 'UserSignUpInfo.Password' Error:Field validation for 'Password' failed on the 'required' tag"}
+2021-06-04T09:36:44.457+0800	ERROR	router/routes.go:48	SignUp with invalid param: 	{"error": "Key: 'UserSignUpInfo.Password' Error:Field validation for 'Password' failed on the 'required' tag"}
+2021-06-04T09:46:29.795+0800	ERROR	router/routes.go:48	SignUp with invalid param: 	{"error": "invalid character '\"' after object key:value pair"}
+2021-06-04T09:46:40.393+0800	INFO	router/routes.go:54	Sign up success
+2021-06-04T09:47:43.233+0800	INFO	router/routes.go:54	Sign up success
+2021-06-04T09:48:19.819+0800	DEBUG	logger/logger.go:53	Trying to hit Get request for www.google.com
+2021-06-04T09:48:19.826+0800	ERROR	logger/logger.go:56	Error fetching URL www.google.com
+2021-06-04T09:48:19.826+0800	DEBUG	logger/logger.go:53	Trying to hit Get request for http://www.google.com
+2021-06-04T09:48:20.807+0800	INFO	logger/logger.go:58	Success! statusCode = 200
+2021-06-04T09:50:06.247+0800	INFO	router/routes.go:54	Sign up success
+2021-06-04T09:51:56.437+0800	DEBUG	logger/logger.go:53	Trying to hit Get request for www.google.com
+2021-06-04T09:51:56.442+0800	ERROR	logger/logger.go:56	Error fetching URL www.google.com
+2021-06-04T09:51:56.442+0800	DEBUG	logger/logger.go:53	Trying to hit Get request for http://www.google.com
+2021-06-04T09:51:57.365+0800	INFO	logger/logger.go:58	Success! statusCode = 200
+2021-06-04T09:56:22.615+0800	DEBUG	logger/logger.go:53	Trying to hit Get request for www.google.com
+2021-06-04T09:56:22.621+0800	ERROR	logger/logger.go:56	Error fetching URL www.google.com
+2021-06-04T09:56:22.621+0800	DEBUG	logger/logger.go:53	Trying to hit Get request for http://www.google.com
+2021-06-04T09:56:23.617+0800	INFO	logger/logger.go:58	Success! statusCode = 200
+2021-06-04T09:58:39.845+0800	ERROR	router/routes.go:48	SignUp with invalid param: 	{"error": "Key: 'UserSignUpInfo.Password' Error:Field validation for 'Password' failed on the 'eqfield' tag"}
+2021-06-04T09:58:45.272+0800	INFO	router/routes.go:54	Sign up success
+2021-06-04T09:58:49.508+0800	ERROR	router/routes.go:48	SignUp with invalid param: 	{"error": "Key: 'UserSignUpInfo.Password' Error:Field validation for 'Password' failed on the 'eqfield' tag"}
+2021-06-04T11:30:52.779+0800	DEBUG	logger/logger.go:53	Trying to hit Get request for www.google.com
+2021-06-04T11:30:52.793+0800	ERROR	logger/logger.go:56	Error fetching URL www.google.com
+2021-06-04T11:30:52.794+0800	DEBUG	logger/logger.go:53	Trying to hit Get request for http://www.google.com
+2021-06-04T11:30:54.017+0800	INFO	logger/logger.go:58	Success! statusCode = 200
+2021-06-16T14:14:49.973+0800	DEBUG	logger/logger.go:53	Trying to hit Get request for www.google.com
+2021-06-16T14:14:49.990+0800	ERROR	logger/logger.go:56	Error fetching URL www.google.com
+2021-06-16T14:14:49.990+0800	DEBUG	logger/logger.go:53	Trying to hit Get request for http://www.google.com
+2021-06-16T14:14:50.790+0800	INFO	logger/logger.go:58	Success! statusCode = 200

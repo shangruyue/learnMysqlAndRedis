@@ -18,6 +18,7 @@ func InitSugarLogger() {
 	core := zapcore.NewCore(encoder, writeSyncer, zapcore.DebugLevel)
 
 	logger := zap.New(core, zap.AddCaller())
+	zap.ReplaceGlobals(logger)
 	sugarLogger = logger.Sugar()
 }
 

@@ -8,7 +8,7 @@ import (
 	"sry/router"
 	"sry/setting"
 
-	//"sry/mysql"
+	"sry/dao/mysql"
 	//"sry/redis"
 
 	_ "github.com/go-sql-driver/mysql"
@@ -21,8 +21,8 @@ func main() {
 	//初始化日志
 	logger.SetupSugarLogger() 
 	//初始化mysql连接
-	// db := mysql.InitMysql()
-	// defer db.Close()
+	db := mysql.InitMysql()
+	defer db.Close()
 	//初始化redis连接
 	// ctx := context.Background()
 	// err := redis.InitRedisClient(ctx)
